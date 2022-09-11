@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/gist/krushndayshmookh/9fb70798bb71b38fd7ec9cee788b8c7c/raw/4d74ce241b1a24864bbf9ea1733f8f142490a5c6/bongo-cat.gif)
+![MasterHead](https://thumbs.gfycat.com/BlandAdorableFlyinglemur-max-1mb.gif)
 <h1 align="center">Hi 👋, I'm NguyenDuy</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 <img align="right" alt"Yourname" width="400" src="https://i.pinimg.com/originals/b1/76/7a/b1767a9e6aeb814387bc69bca5171484.gif">
