@@ -1,4 +1,6 @@
+<div align="center">
 ![MasterHead](https://thumbs.gfycat.com/BlandAdorableFlyinglemur-max-1mb.gif)
+</div>
 
 <h1 align="center">Hi 👋, I'm NguyenDuy</h1>
 
